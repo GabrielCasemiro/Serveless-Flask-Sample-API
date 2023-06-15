@@ -5,7 +5,6 @@ Simple fully managed API server using AWS API Gateway, Lambda, and Flask. Also i
 
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
 * [AWS Lambda](https://aws.amazon.com/lambda/)
-* [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 * [serverless](https://serverless.com/) 3.32.2 (npm package)
 * [serverless-wsgi](https://github.com/logandk/serverless-wsgi) 3.0.2
 * [serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) 6.0.0
@@ -20,7 +19,7 @@ Simple fully managed API server using AWS API Gateway, Lambda, and Flask. Also i
 * aws account
 * awscli
 
-## Setup & Deploy
+## Setup & Deploy   
 
 ```
 # Download source
