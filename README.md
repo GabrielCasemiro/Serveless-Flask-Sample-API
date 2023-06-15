@@ -1,4 +1,4 @@
-# Serveless-Flask-Sample-API
+# Serverless-Flask-Sample-API
 Simple fully managed API server using AWS API Gateway, Lambda, and Flask. Also it include an infrastructure deployment by serverless framework.
 
 ## Tools & Packages
